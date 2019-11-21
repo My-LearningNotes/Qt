@@ -11,4 +11,4 @@ Qt learning note
     :caption: Contents:
     
     qt_creator/index
-
+    qt/index
