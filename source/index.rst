@@ -12,3 +12,4 @@ Qt learning note
     
     qt_creator/index
     qt/index
+    summary/index
