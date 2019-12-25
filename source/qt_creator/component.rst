@@ -3,7 +3,7 @@
 
 Qt Creator主要由菜单(Menu Bar), 模式选择器(Mode Selectors), 项目浏览器(Project Inspector), 代码编辑器(Code Editor), 输出面板(Output Panes)，边栏(Sidebars)，快速导航面板(Quick Open Pane)等组件构成。
 
-.. figure:: E:/MyNotes/source/Qt/qt_creator/_static/2_1.png
+.. figure:: _static/2_1.png
    :alt: 
 
 

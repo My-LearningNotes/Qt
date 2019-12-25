@@ -14,7 +14,7 @@ Shadow Build  影子构建模式，采用这种构建模式时，将在一个与
 
 对一个项目的构建系统进行设置，需要先切换到\ *Project*\ 模式。
 
-.. figure:: E:/MyNotes/source/Qt/qt_creator/_static/4_1.png
+.. figure:: _static/4_1.png
    :alt: 
 
 -  选择构建工具
@@ -23,7 +23,7 @@ Shadow Build  影子构建模式，采用这种构建模式时，将在一个与
 
    在构建时，可以选择构建工具和构建版本。
 
-   .. figure:: E:/MyNotes/source/Qt/qt_creator/_static/4_2.png
+   .. figure:: _static/4_2.png
       :alt: 
 
 -  每一个构建版本都有：\ **General**\ ，\ **Build Steps**\ ，\ **Clean

@@ -8,7 +8,7 @@
 
 具体做法是切换到项目的Project模式，在\ *Project Settings -> Dependencies*\ 中选择当前项目依赖的其它项目。
 
-.. figure:: E:/MyNotes/source/Qt/qt_creator/_static/5_1.png
+.. figure:: _static/5_1.png
    :alt: 
 
 注意:
