@@ -19,7 +19,8 @@ Example:
                
        	void run() Q_DECL_OVERRIDE
         {
-           	QString result;
+            QString result;
+
             /* ... here is the expensive or blocking operation ... */
             emit resultReady(result);
         }
@@ -98,6 +99,7 @@ Example:
         void doWork(const QString &paramter)
         {
             QString result;
+            
             /* ... here is the expensive or blocking operation ... */
             emit resultReady(result);
         }
@@ -136,7 +138,7 @@ Example:
         void operate(const QString &);
     };
 
--  在这种方式中，没有重写\ ``run()``\ 方法，它使用的是默认实现: *starts the event loop by calling ``exec()`` and runs a Qt eventloop inside the thread*.
+-  在这种方式中，没有重写\ ``run()``\ 方法，它使用的是默认实现: *starts the event loop by calling exec() and runs a Qt eventloop inside the thread*.
 
 -  通过调用\ ``QObject::moveToThread()``\ 将QObject对象移动到指定线程中执行
 
