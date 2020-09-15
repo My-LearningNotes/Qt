@@ -394,7 +394,7 @@ Qt 5支持新的信号槽连接语法:
 
 
 Disconnecting in Qt 5
-~~~~~~~~~~~~~~~~~~~~~
+*********************
 
 -  Old way
 
@@ -429,7 +429,7 @@ Disconnecting in Qt 5
 
 
 常见问题总结
-~~~~~~~~~~~~
+************
 
 -  Missing ``Q_OBJECT`` in class definition
 
