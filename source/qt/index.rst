@@ -7,6 +7,7 @@ Qt
     overview
     hello_Qt
     meta_object_system
+    QObject
     signal_slot
     QThread/index
 
