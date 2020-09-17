@@ -2,9 +2,11 @@ Qt
 ===
 
 .. toctree::
-	:maxdepth: 1
+    :maxdepth: 1
 
-	overview
-        hello_Qt
-        signal_slot
-        QThread/index
+    overview
+    hello_Qt
+    meta_object_system
+    signal_slot
+    QThread/index
+
